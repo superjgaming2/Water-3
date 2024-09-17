@@ -36,10 +36,10 @@ body {
 }
 .main-text {
     color: #fff;
-    margin-inline: 10em;
+    margin-inline: 15%;
     line-height: 1;
     padding: 0;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
 }
 .main-img {
     width: 70%;
